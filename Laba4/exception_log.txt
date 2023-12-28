@@ -1,0 +1,12 @@
+Exception: CustomEmailFormatException
+Message: Недопустимый формат email-адреса: invalid_email@example
+StackTrace: 
+	EmailValidator.validateEmail(EmailValidator.java:25)
+	EmailValidator.main(EmailValidator.java:15)
+
+Exception: CustomEmailFormatException
+Message: Недопустимый формат email-адреса: love_is@gmail.1opp
+StackTrace: 
+	EmailValidator.validateEmail(EmailValidator.java:25)
+	EmailValidator.main(EmailValidator.java:15)
+
